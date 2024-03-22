@@ -1,8 +1,8 @@
 const htmlParser = require( "node-html-parser" );
 const fs = require( "node:fs" );
 const articleSections = {
-    BedrockPreview: 360001185332,
-    BedrockRelease: 360001186971,
+    BedrockPreview: 1220638464077463552,
+    BedrockRelease: 1220638378832171018,
 };
 
 const formatDate = (d = Date.now()) => {
